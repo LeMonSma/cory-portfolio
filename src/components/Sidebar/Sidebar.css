@@ -1,23 +1,29 @@
-.nav-bar {
-    background-color: #5b84b1FF;
-    width: 200px;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    z-index: 3;
+header {
     min-height: 500px;
 }
 
-.profile-pic {
-    display: block;
-    margin: 8px auto;
-    width: 80px;
-    height: auto;
+.nav-bar {
+    width: 200px;
+    height: 90%;
+    position: absolute;
+
 }
 
 .logo {
-    display: block;
-    margin: 16px auto;
-    width: 160px;
+    margin: 2px auto;
+    padding: 8px 0;
+    width: 140px;
     height: auto;
+    max-height: 250px;
+
+}
+
+
+nav {
+    display: block;
+    text-align: center;
+    height: 210px;
+    top: 50%;
+    margin-top: -120px;
+    width: 100%;
 }
