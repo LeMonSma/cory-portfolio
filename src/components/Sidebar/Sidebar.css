@@ -1,0 +1,23 @@
+.nav-bar {
+    background-color: #5b84b1FF;
+    width: 200px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 3;
+    min-height: 500px;
+}
+
+.profile-pic {
+    display: block;
+    margin: 8px auto;
+    width: 80px;
+    height: auto;
+}
+
+.logo {
+    display: block;
+    margin: 16px auto;
+    width: 160px;
+    height: auto;
+}
