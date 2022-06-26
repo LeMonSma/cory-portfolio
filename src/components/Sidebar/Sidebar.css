@@ -1,12 +1,11 @@
 header {
-    min-height: 500px;
+    min-height: 800px;
+    width: 200px;
 }
 
 .nav-bar {
     width: 200px;
-    height: 90%;
-    position: absolute;
-
+    height: 100%;
 }
 
 .logo {
@@ -15,15 +14,23 @@ header {
     width: 140px;
     height: auto;
     max-height: 250px;
-
 }
 
 
 nav {
-    display: block;
-    text-align: center;
     height: 210px;
-    top: 50%;
+    top: 20%;
     margin-top: -120px;
     width: 100%;
+}
+
+li {
+    margin: 10px 0;
+}
+
+span {
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 50px;
 }
