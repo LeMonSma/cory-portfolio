@@ -3,6 +3,9 @@ import './App.css';
 import About from './components/About/About';
 import Sidebar from './components/Sidebar/Sidebar';
 import Contact from './components/Contact/Contact';
+import Portfolio from './components/Portfolio/Portfolio';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function router(page) {
   switch (page) {
@@ -12,8 +15,11 @@ function router(page) {
     case 'contact':
       return <Contact />
 
+    case 'portfolio':
+      return <Portfolio />
     default:
-      return <h1> default </h1>
+      return <About />
+
   }
 }
 
@@ -22,9 +28,9 @@ function App() {
 
   return (
 
-    <div id='App' className='flex-row flex-direction'>
+    <div id='App' className='row'>
       <Sidebar selected={selectedPage} onSelect={setPage} />
-      <main className='container'>
+      <main className='col-10'>
         {router(selectedPage)}
       </main>
     </div>
