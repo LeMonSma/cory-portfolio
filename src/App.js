@@ -29,8 +29,9 @@ function App() {
   return (
 
     <div id='App' className='row'>
+
       <Sidebar selected={selectedPage} onSelect={setPage} />
-      <main className='col-10'>
+      <main className='col-11'>
         {router(selectedPage)}
       </main>
     </div>

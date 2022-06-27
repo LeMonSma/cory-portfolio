@@ -4,10 +4,12 @@
 }
 
 
-.background {
-    background-color: #f08080;
+p {
+    font: italic small-caps bold 20px/30px Georgia, serif;
+    color: rgb(27, 30, 35);
 }
 
-.self-align {
-    align-self: stretch;
+li {
+    font-weight: bolder;
+    font-size: larger;
 }
