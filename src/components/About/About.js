@@ -14,13 +14,13 @@ const About = () => {
                 <p>Hello, and welcome to my page!</p>
                 <p> My name is Cory Burris and I am a Full Stack Developer!</p>
                 <p> Some of the Technolgies I have worked with include:</p>
-                <ul>
+                <p className='color'>
                     <li>JavaScript / Node.js</li>
                     <li>Express.js / Handlebars.js</li>
                     <li>Html / Css</li>
                     <li>SQl / MongoDb</li>
                     <li>React</li>
-                </ul>
+                </p>
                 <p> I Graduated a Boot Camp from THE Ohio State University! </p>
                 <p> I look forward to continue my learning and getting a chance to work with some amazing people!</p>
                 <p> This Portfolio will continue to devlop as i continue to Grow as a person and developer!</p>

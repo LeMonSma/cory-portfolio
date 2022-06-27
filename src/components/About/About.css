@@ -12,4 +12,9 @@ p {
 li {
     font-weight: bolder;
     font-size: larger;
+    color: black;
+}
+
+color {
+    color: rgb(27, 30, 35);
 }
