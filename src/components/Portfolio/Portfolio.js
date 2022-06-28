@@ -17,7 +17,7 @@ const Portfolio = () => {
                 <div className="col mb-4">
 
                     <a target='blank' href="https://lemonsma.github.io/code-quiz/">
-                        <img className="img-fluid" src={codeQuiz} />
+                        <img alt="a screenshot of the app" className="img-fluid" src={codeQuiz} />
                     </a>
                 </div>
 
@@ -26,7 +26,7 @@ const Portfolio = () => {
                 <div className="col mb-4 ">
 
                     <a target='blank' className='' href="https://ancs214.github.io/RunFinder/">
-                        <img className="img-fluid" src={runChug} />
+                        <img alt="a screenshot of the app" className="img-fluid" src={runChug} />
                     </a>
                 </div>
             </div>
@@ -34,14 +34,14 @@ const Portfolio = () => {
                 <div className="col mb-4">
 
                     <a className='' target='blank' href="https://floating-wildwood-70716.herokuapp.com/">
-                        <img className="img-fluid" src={noteTaker} />
+                        <img alt="a screenshot of the app" className="img-fluid" src={noteTaker} />
                     </a>
                 </div>
 
                 <div className="col mb-4">
 
                     <a target='blank' className='' href="https://github.com/LeMonSma/fantastic-umbrella">
-                        <img className="img-fluid" src={Ecommerce} />
+                        <img alt="a screenshot of the app" className="img-fluid" src={Ecommerce} />
                     </a>
                 </div>
             </div>
