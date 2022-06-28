@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cory-portfolio/static/css/main.d83ae506.css",
+    "main.js": "/cory-portfolio/static/js/main.df8cb56a.js",
+    "static/js/787.098142bb.chunk.js": "/cory-portfolio/static/js/787.098142bb.chunk.js",
+    "static/media/run&Chug.png": "/cory-portfolio/static/media/run&Chug.2f3f93252a4ddff8437a.png",
+    "static/media/logo2.jpg": "/cory-portfolio/static/media/logo2.be3cf86d591b6363b158.jpg",
+    "static/media/codeQuiz.png": "/cory-portfolio/static/media/codeQuiz.cfa210c7ff53644ab9af.png",
+    "static/media/Ecommerce.png": "/cory-portfolio/static/media/Ecommerce.023cd850ee9e33fa8641.png",
+    "static/media/portfolio-pic.jpg": "/cory-portfolio/static/media/portfolio-pic.4d044d7242d5c822be21.jpg",
+    "static/media/noteTaker.png": "/cory-portfolio/static/media/noteTaker.ab67f1a898bac83185bf.png",
+    "index.html": "/cory-portfolio/index.html",
+    "main.d83ae506.css.map": "/cory-portfolio/static/css/main.d83ae506.css.map",
+    "main.df8cb56a.js.map": "/cory-portfolio/static/js/main.df8cb56a.js.map",
+    "787.098142bb.chunk.js.map": "/cory-portfolio/static/js/787.098142bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d83ae506.css",
+    "static/js/main.df8cb56a.js"
+  ]
+}
