@@ -15,7 +15,7 @@
     Cory Burris
 
 ## Deployed
-https://floating-wildwood-70716.herokuapp.com/notes
+ https://lemonsma.github.io/myReactPortfolio/
 ## Questions: 
     https://github.com/LeMonSma/myReactPortfolio.git
     Please reach out to me at burrisc24@gmail.com with any additional questions, comments, or concerns!
